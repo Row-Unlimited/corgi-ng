@@ -1,5 +1,10 @@
-config.py
-__pycache__
-.idea
-.venv
-.github
+**/__pycache__/
+**/.venv/
+**/.idea/
+.git/
+.github/
+.gitignore
+.dockerignore
+
+**/config.py
+**/data/
